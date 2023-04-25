@@ -1,5 +1,9 @@
+# CodeWars
 
-### [![Profile badge](URL:https://www.codewars.com/users/tomekdot/badges/micro)](https://www.codewars.com/users/tomekdot)
+This is the GitHub repository where I save copies of the katas I've completed on
+[codewars.com](https://www.codewars.com/).
+
+[![Profile badge](URL:https://www.codewars.com/users/tomekdot/badges/micro)](https://www.codewars.com/users/tomekdot)
 
 <!--
 **tomekdot/tomekdot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
