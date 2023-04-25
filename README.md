@@ -1,5 +1,5 @@
 
-### [![Profile badge](https://www.codewars.com/users/hugmanrique/badges/large)](https://www.codewars.com/users/hugmanrique)
+### [![Profile badge](URL:https://www.codewars.com/users/tomekdot/badges/micro)](https://www.codewars.com/users/tomekdot)
 
 <!--
 **tomekdot/tomekdot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
