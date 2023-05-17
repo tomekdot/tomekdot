@@ -1,6 +1,3 @@
-### CodeWars
-
-[![Codewars](https://github.r2v.ch/codewars?user=tomekdot&stroke=%23ffffff)](https://www.codewars.com/users/tomekdot)
 
 <!--
 **tomekdot/tomekdot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
